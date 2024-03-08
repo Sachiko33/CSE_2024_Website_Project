@@ -3,6 +3,11 @@ html {
   width: 100%;
 }
 
+h1 {
+  border-style: transparent;
+  border-color: grey;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
